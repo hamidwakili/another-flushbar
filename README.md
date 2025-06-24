@@ -428,7 +428,7 @@ TextFormField getFormField(String text) {
       style: TextStyle(color: Colors.white),
       maxLength: 100,
       maxLines: 1,
-      maxLengthEnforced: true,
+      maxLengthEnforcement: MaxLengthEnforcement.enforced,
       decoration: InputDecoration(
           fillColor: Colors.white10,
           filled: true,
