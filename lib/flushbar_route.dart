@@ -150,7 +150,7 @@ class FlushbarRoute<T> extends OverlayRoute<T> {
     }
 
     if (_filterColorAnimation != null) {
-      AnimatedBuilder(
+      return AnimatedBuilder(
         animation: _filterColorAnimation!,
         builder: (context, child) {
           return Container(
