@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  test('Test Flushbar basic inicialization', () async {
+  test('Test Flushbar basic initialization', () {
     final flushbar = Flushbar(message: 'This is a test');
     expect(flushbar.title, null);
     expect(flushbar.message, 'This is a test');
