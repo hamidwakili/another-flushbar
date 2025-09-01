@@ -85,7 +85,7 @@ class FlushbarRoute<T> extends OverlayRoute<T> {
       );
     }
 
-    Widget child =  flushbar.isDismissible
+    Widget child = flushbar.isDismissible
         ? _getDismissibleFlushbar(_builder)
         : _getFlushbar();
 
