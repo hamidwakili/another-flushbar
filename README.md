@@ -7,6 +7,18 @@ toasts and snackbars. IOS developers, I don't know what you use there, but you w
 
 See the [install instructions](https://pub.dev/packages/another_flushbar/install).
 
+## ❤️ Support & Contact
+
+Maintaining open-source takes time and energy.  
+If this library has helped you, consider supporting my work:
+
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/hamidwakili)
+
+For questions, feedback, or collaboration:
+
+- 💼 [LinkedIn – Hamid Wakili](https://www.linkedin.com/in/hamid-wakili/)
+
+
 ## Quick reference
 
 Since customization requires a lot of properties, here is a quick cheatsheet:
