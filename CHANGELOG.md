@@ -1,3 +1,5 @@
+## 1.12.32 - 2025-09-08
+- Prevent crashes from null checks in Flushbar route lifecycle (isDismissed, isAppearing, isHiding)
 ## 1.12.31 - 2025-09-01
 - minor improvements
 ## 1.12.30 - 2023-11-05
